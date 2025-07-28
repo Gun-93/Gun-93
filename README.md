@@ -19,7 +19,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="linkedin.com/in/gunkeshri" target="blank">
+  <a href="www.linkedin.com/in/gunkeshri" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
