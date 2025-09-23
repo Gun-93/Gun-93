@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **Neural Networks & Deep Learning** ,**Artificial Intelligence**
-- 💬 Ask me about **Frontend Development**, **React.js**, **Machine Learning**, **Python**
+- 💬 Ask me about **Frontend Development**, **React.js**, **Machine Learning**, **Python** ,**Mern Stack**
 - 🎨 My hobbies are **Painting** and **Photography**
 - 📫 How to reach me: gunpcity@gmail.com (update if you want!)
 - 📁 My Portfolio: [React_Portfolio](https://github.com/Gun-93/React_Portfolio.git)
