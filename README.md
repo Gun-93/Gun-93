@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gun Keshri</h1>
-<h3 align="center">Frontend Developer | Machine Learning Engineer</h3>
+<h3 align="center">Mern Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gun-93&label=Profile%20views&color=0e75b6&style=flat" alt="Gun-93" />
